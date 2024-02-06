@@ -1,0 +1,424 @@
+Попытка 1: Robot
+Попытка 2: Barbie
+Попытка 3: Lego
+Попытка 4: Barbie
+Попытка 5: Lego
+Попытка 6: Barbie
+Попытка 7: Barbie
+Попытка 8: Barbie
+Попытка 9: Barbie
+Попытка 10: Robot
+Попытка 11: Èãðóøêè çàêîí÷èëèñü
+
+Остаток:
+Lego: 0
+Robot: 0
+Barbie: 0
+
+Попытка 1: Barbie
+Попытка 2: Barbie
+Попытка 3: Barbie
+Попытка 4: Barbie
+Попытка 5: Barbie
+Попытка 6: Robot
+Попытка 7: Lego
+Попытка 8: Lego
+Попытка 9: Barbie
+Попытка 10: Robot
+Попытка 11: Игрушки закончились
+
+Остаток:
+Lego: 0
+Robot: 0
+Barbie: 0
+
+Попытка 1: Lego
+Попытка 2: Lego
+Попытка 3: Barbie
+Попытка 4: Lego
+Попытка 5: Barbie
+Попытка 6: Robot
+Попытка 7: Robot
+Попытка 8: Barbie
+Попытка 9: Barbie
+Попытка 10: Robot
+Попытка 11: Lego
+
+Остаток:
+Lego: 1
+Robot: 3
+Barbie: 1
+
+Попытка 1: Robot
+Попытка 2: Lego
+Попытка 3: Robot
+Попытка 4: Barbie
+Попытка 5: Barbie
+Попытка 6: Lego
+Попытка 7: Lego
+Попытка 8: Barbie
+Попытка 9: Robot
+Попытка 10: Robot
+Попытка 11: Barbie
+Попытка 12: Lego
+Попытка 13: Lego
+Попытка 14: Barbie
+Попытка 15: Robot
+Попытка 16: Robot
+Попытка 17: Игрушки закончились
+
+Остаток:
+Lego: 0
+Robot: 0
+Barbie: 0
+
+Попытка 1: Barbie
+Попытка 2: Lego
+Попытка 3: Barbie
+Попытка 4: Lego
+Попытка 5: Lego
+Попытка 6: Robot
+Попытка 7: Barbie
+Попытка 8: Robot
+Попытка 9: Lego
+Попытка 10: Robot
+Попытка 11: Lego
+Попытка 12: Robot
+Попытка 13: Barbie
+Попытка 14: Barbie
+Попытка 15: Robot
+Попытка 16: Robot
+Попытка 17: Игрушки закончились
+
+Остаток:
+Lego: 0
+Robot: 0
+Barbie: 0
+
+Попытка 1: Robot
+Попытка 2: Puppet
+Попытка 3: Lego
+Попытка 4: Car
+Попытка 5: Robot
+Попытка 6: Robot
+Попытка 7: Puppet
+Попытка 8: Lego
+Попытка 9: Barbie
+Попытка 10: Lego
+Попытка 11: Puppet
+Попытка 12: Barbie
+Попытка 13: Car
+Попытка 14: Robot
+Попытка 15: Car
+Попытка 16: Lego
+Попытка 17: Car
+Попытка 18: Barbie
+Попытка 19: Lego
+Попытка 20: Lego
+
+Остаток:
+Lego: 14
+Robot: 16
+Barbie: 17
+Car: 16
+Puppet: 17
+
+Попытка 1: Lego
+Попытка 2: Car
+Попытка 3: Robot
+Попытка 4: Car
+Попытка 5: Car
+Попытка 6: Barbie
+Попытка 7: Robot
+Попытка 8: Lego
+Попытка 9: Barbie
+Попытка 10: Puppet
+Попытка 11: Car
+Попытка 12: Barbie
+Попытка 13: Puppet
+Попытка 14: Puppet
+Попытка 15: Car
+Попытка 16: Puppet
+Попытка 17: Robot
+Попытка 18: Lego
+Попытка 19: Robot
+Попытка 20: Lego
+
+Остаток:
+Lego: 1
+Robot: 1
+Barbie: 2
+Car: 0
+Puppet: 1
+
+Попытка 1: Robot
+Попытка 2: Robot
+Попытка 3: Robot
+Попытка 4: Puppet
+Попытка 5: Barbie
+Попытка 6: Car
+Попытка 7: Car
+Попытка 8: Car
+Попытка 9: Puppet
+Попытка 10: Lego
+Попытка 11: Puppet
+Попытка 12: Barbie
+Попытка 13: Robot
+Попытка 14: Puppet
+Попытка 15: Barbie
+
+Остаток:
+Lego: 4
+Robot: 1
+Barbie: 2
+Car: 2
+Puppet: 1
+
+Попытка 1: Car
+Попытка 2: Puppet
+Попытка 3: Car
+Попытка 4: Robot
+Попытка 5: Robot
+Попытка 6: Robot
+Попытка 7: Robot
+Попытка 8: Lego
+Попытка 9: Puppet
+Попытка 10: Robot
+Попытка 11: Lego
+Попытка 12: Lego
+Попытка 13: Barbie
+Попытка 14: Car
+Попытка 15: Puppet
+
+Остаток:
+Lego: 2
+Robot: 0
+Barbie: 4
+Car: 2
+Puppet: 2
+
+Попытка 1: Barbie
+Попытка 2: Lego
+Попытка 3: Barbie
+Попытка 4: Puppet
+Попытка 5: Barbie
+Попытка 6: Lego
+Попытка 7: Lego
+Попытка 8: Robot
+Попытка 9: Car
+Попытка 10: Robot
+
+Остаток:
+Lego: 2
+Robot: 3
+Barbie: 2
+Car: 4
+Puppet: 4
+
+Попытка 1: Puppet
+Попытка 2: Puppet
+Попытка 3: Barbie
+Попытка 4: Car
+Попытка 5: Lego
+Попытка 6: Car
+Попытка 7: Barbie
+Попытка 8: Robot
+Попытка 9: Robot
+Попытка 10: Lego
+
+Остаток:
+Lego: 0
+Robot: 0
+Barbie: 0
+Car: 0
+Puppet: 0
+
+Попытка 1: Car
+Попытка 2: Barbie
+Попытка 3: Robot
+Попытка 4: Puppet
+Попытка 5: Robot
+Попытка 6: Puppet
+Попытка 7: Lego
+Попытка 8: Barbie
+Попытка 9: Lego
+Попытка 10: Игрушки закончились
+
+Остаток:
+Lego: 0
+Robot: 0
+Barbie: 0
+Car: 0
+Puppet: 0
+
+Попытка 1: Puppet
+Попытка 2: Robot
+Попытка 3: Puppet
+Попытка 4: Barbie
+Попытка 5: Puppet
+Попытка 6: Lego
+Попытка 7: Lego
+Попытка 8: Lego
+Попытка 9: Lego
+Попытка 10: Robot
+Попытка 11: Robot
+Попытка 12: Robot
+Попытка 13: Robot
+Попытка 14: Car
+Попытка 15: Car
+Попытка 16: Car
+Попытка 17: Car
+Попытка 18: Puppet
+Попытка 19: Robot
+Попытка 20: Robot
+Попытка 21: Barbie
+Попытка 22: Puppet
+Попытка 23: Puppet
+Попытка 24: Car
+Попытка 25: Barbie
+Попытка 26: Barbie
+Попытка 27: Barbie
+Попытка 28: Puppet
+Попытка 29: Car
+Попытка 30: Puppet
+Попытка 31: Barbie
+Попытка 32: Puppet
+Попытка 33: Robot
+Попытка 34: Puppet
+Попытка 35: Car
+Попытка 36: Robot
+Попытка 37: Puppet
+Попытка 38: Puppet
+Попытка 39: Lego
+Попытка 40: Car
+Попытка 41: Puppet
+Попытка 42: Car
+Попытка 43: Puppet
+Попытка 44: Robot
+Попытка 45: Barbie
+Попытка 46: Barbie
+Попытка 47: Barbie
+Попытка 48: Car
+Попытка 49: Robot
+Попытка 50: Robot
+Попытка 51: Robot
+Попытка 52: Robot
+Попытка 53: Robot
+Попытка 54: Barbie
+Попытка 55: Puppet
+Попытка 56: Car
+Попытка 57: Car
+Попытка 58: Puppet
+Попытка 59: Puppet
+Попытка 60: Lego
+Попытка 61: Car
+Попытка 62: Lego
+Попытка 63: Robot
+Попытка 64: Robot
+Попытка 65: Lego
+Попытка 66: Puppet
+Попытка 67: Lego
+Попытка 68: Puppet
+Попытка 69: Puppet
+Попытка 70: Barbie
+Попытка 71: Barbie
+Попытка 72: Car
+Попытка 73: Barbie
+Попытка 74: Puppet
+Попытка 75: Puppet
+Попытка 76: Robot
+Попытка 77: Robot
+Попытка 78: Lego
+Попытка 79: Robot
+Попытка 80: Car
+Попытка 81: Игрушки закончились
+
+Остаток:
+Lego: 0
+Robot: 0
+Barbie: 0
+Car: 0
+Puppet: 0
+
+Попытка 1: Car
+Попытка 2: Car
+Попытка 3: Puppet
+Попытка 4: Barbie
+Попытка 5: Robot
+Попытка 6: Lego
+Попытка 7: Robot
+Попытка 8: Car
+Попытка 9: Robot
+Попытка 10: Lego
+
+Остаток:
+Lego: 8
+Robot: 17
+Barbie: 12
+Car: 12
+Puppet: 21
+
+Попытка 1: Lego
+Попытка 2: Barbie
+Попытка 3: Barbie
+Попытка 4: Lego
+Попытка 5: Barbie
+Попытка 6: Car
+Попытка 7: Robot
+Попытка 8: Puppet
+Попытка 9: Puppet
+Попытка 10: Puppet
+
+Остаток:
+Lego: 8
+Robot: 9
+Barbie: 7
+Car: 9
+Puppet: 7
+
+Попытка 1: Car
+Попытка 1: Игрушки закончились
+Попытка 1: Car
+Попытка 1: Игрушки закончились
+Попытка 1: Car
+Попытка 1: Игрушки закончились
+Попытка 1: Puppet
+Попытка 1: Игрушки закончились
+Попытка 1: Car
+Попытка 1: Car
+Попытка 1: Puppet
+Попытка 2: Car
+Попытка 3: Lego
+Попытка 4: Barbie
+Попытка 5: Barbie
+Попытка 6: Barbie
+Попытка 7: Car
+Попытка 8: Puppet
+Попытка 9: Lego
+Попытка 10: Barbie
+
+Остаток:
+Lego: 8
+Robot: 10
+Barbie: 6
+Car: 8
+Puppet: 8
+
+Попытка 1: Barbie
+Попытка 2: Car
+Попытка 3: Robot
+Попытка 4: Lego
+Попытка 5: Robot
+Попытка 6: Puppet
+Попытка 7: Car
+Попытка 8: Puppet
+Попытка 9: Robot
+Попытка 10: Barbie
+
+Остаток:
+Lego: 9
+Robot: 7
+Barbie: 8
+Car: 8
+Puppet: 8
+
